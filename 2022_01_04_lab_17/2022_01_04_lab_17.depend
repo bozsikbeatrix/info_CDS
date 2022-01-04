@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641275627 source:d:\bozsik beatrix\2022_01_04_lab_17\main.cpp
+	<iostream>
+	<fstream>
+
